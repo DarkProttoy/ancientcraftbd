@@ -12,7 +12,7 @@ body{
   
 }
 .background{
-    background: url(minecraft-shader-wallpaper-preview.jpg) no-repeat;
+    background: url(https://github.com/DarkProttoy/ancientcraftbd/blob/b64d61bea760f2d0a9e597f0db43d847135811cb/minecraft-shader-wallpaper-preview.jpg) no-repeat;
     background-position: center;
     background-size:cover ;
     height: 100vh;
